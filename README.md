@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm James</h1>
-<h3 align="center">Computer science student at Ontario Tech University</h3>
+<h1 align="left">Hi 👋, I'm James</h1>
+<h3 align="left">Computer science student at Ontario Tech University</h3>
 
 - 🔭 I’m currently working on [ChatRooms](https://github.com/ZHJamesY/ChatRooms)
 
