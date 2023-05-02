@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm James</h1>
 <h3 align="left">Computer science student at Ontario Tech University</h3>
 
-- 🔭 I’m currently working on [FightingGame]([https://github.com/ZHJamesY/ChatRooms](https://github.com/ZHJamesY/FightingGame))
+- 🔭 I’m currently working on [FightingGame](https://github.com/ZHJamesY/FightingGame)
 
 - 🌱 I’m currently learning **SQL, NoSQL, and React**
 
