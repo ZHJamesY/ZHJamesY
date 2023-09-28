@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **james.yzh10@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1HSLCl4F42m3-pUDYjbFLEvbgugoEBFnf/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Tg0_G1CCKlU7YBp-pTvmKR70uuh7ISkb/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
