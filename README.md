@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [FightingGame](https://github.com/ZHJamesY/FightingGame)
 
-- 🌱 I’m currently learning **SQL/PostgreSQL, Flutter/Dart**
+- 🌱 I’m currently learning **SQL/PostgreSQL, Microsoft Azure**
 
 - 📫 How to reach me **james.yzh10@gmail.com**
 
