@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **SQL/PostgreSQL, Microsoft Azure**
 
-- 📫 How to reach me **james.yzh10@gmail.com**
+- 📫 How to reach out to me **james.yzh10@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Tg0_G1CCKlU7YBp-pTvmKR70uuh7ISkb/view?usp=sharing)
 
