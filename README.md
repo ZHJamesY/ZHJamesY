@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm James</h1>
-<h3 align="left">Computer science student at Ontario Tech University</h3>
+<h3 align="left">Undergraduate computer science student at Ontario Tech University</h3>
 
 - 🔭 I’m currently working on [FightingGame](https://github.com/ZHJamesY/FightingGame)
 
