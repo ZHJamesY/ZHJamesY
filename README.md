@@ -1,10 +1,6 @@
 <h1 align="left">Hi 👋, I'm James</h1>
 <h3 align="left">Undergraduate computer science student at Ontario Tech University</h3>
 
-- 🔭 I’m currently working on [FightingGame](https://github.com/ZHJamesY/FightingGame)
-
-- 🌱 I’m currently learning **SQL/PostgreSQL, Microsoft Azure**
-
 - 📫 How to reach out to me **james.yzh10@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Tg0_G1CCKlU7YBp-pTvmKR70uuh7ISkb/view?usp=sharing)
