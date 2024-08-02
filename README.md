@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm James</h1>
 <h3 align="left">Undergraduate computer science student at Ontario Tech University</h3>
 
-- 📫 Reach out to me **james.yzh10@gmail.com**
+- 📫 How to reach out to me **james.yzh10@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1yWZQ_oEu5tjXBZKtQ5bShXg63lFULXwu/view?usp=sharing)
 
