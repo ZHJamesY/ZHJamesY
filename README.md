@@ -1,5 +1,4 @@
 <h1 align="left">Hi 👋, I'm James</h1>
-<h3 align="left">Undergraduate computer science student at Ontario Tech University</h3>
 
 - 📫 How to reach out to me **james.yzh10@gmail.com**
 
